@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .btn{
+   @apply bg-blue-600 dark:bg-blue-500 dark:text-blue-950 hover:bg-blue-800 hover:text-white duration-500 text-white px-5 py-2 rounded-lg inline-block;
+}; */
+
+.gauri{
+    @apply bg-purple-500 text-slate-900 py-4 px-5 text-3xl;
+}
